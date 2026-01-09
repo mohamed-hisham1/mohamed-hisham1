@@ -34,9 +34,9 @@ Currently, I'm diving deep into deep learning and LLMs, working on projects that
 ## 📚 Continuous Learning
 
 **Currently expanding my skills in:**
--*Deep Learning architectures and neural networks*
--*Large Language Models (LLMs) and their applications*
--*Generative AI and prompt engineering*
+- *Deep Learning architectures and neural networks*
+- *Large Language Models (LLMs) and their applications*
+- *Generative AI and prompt engineering*
 
 
 ---
@@ -72,5 +72,5 @@ I am open to:
 
 ---
 
-📫 ## 🌐 Socials:
+ **🌐 Socials**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedd-hiiisham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamed.hiisham@outlook.com) 
